@@ -1,0 +1,75 @@
+{
+  "periodo": {
+    "inicio": "2020-02-25",
+    "fim": "2022-03-27"
+  },
+  "cobertura": {
+    "estados": 27,
+    "municipios": 5298
+  },
+  "totais": {
+    "casos": 976214,
+    "obitos": 39352
+  },
+  "top_municipios": {
+    "casos": [
+      {
+        "UF": "SP",
+        "Município": "São Paulo",
+        "Casos_acumulados": 976214
+      },
+      {
+        "UF": "DF",
+        "Município": "Brasília",
+        "Casos_acumulados": 597871
+      },
+      {
+        "UF": "RJ",
+        "Município": "Rio de Janeiro",
+        "Casos_acumulados": 484433
+      },
+      {
+        "UF": "MG",
+        "Município": "Belo Horizonte",
+        "Casos_acumulados": 278370
+      },
+      {
+        "UF": "CE",
+        "Município": "Fortaleza",
+        "Casos_acumulados": 256585
+      }
+    ],
+    "obitos": [
+      {
+        "UF": "SP",
+        "Município": "São Paulo",
+        "Obitos_acumulados": 39352
+      },
+      {
+        "UF": "RJ",
+        "Município": "Rio de Janeiro",
+        "Obitos_acumulados": 34102
+      },
+      {
+        "UF": "DF",
+        "Município": "Brasília",
+        "Obitos_acumulados": 10363
+      },
+      {
+        "UF": "CE",
+        "Município": "Fortaleza",
+        "Obitos_acumulados": 9670
+      },
+      {
+        "UF": "AM",
+        "Município": "Manaus",
+        "Obitos_acumulados": 9504
+      }
+    ]
+  },
+  "metricas": {
+    "taxa_mortalidade": 0.0275,
+    "media_movel_casos": 0.0,
+    "media_movel_obitos": 0.0
+  }
+}
